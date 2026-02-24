@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.7",
-    "next": "15.2.2",
+    "next": "15.3.0-canary.0",
     "react": "19.0.0",
     "react-dom": "19.0.0"
   },
@@ -20,7 +20,7 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "eslint": "^9",
-    "eslint-config-next": "15.2.2",
+    "eslint-config-next": "15.3.0-canary.0",
     "tailwindcss": "^4.0.0",
     "typescript": "^5"
   }
